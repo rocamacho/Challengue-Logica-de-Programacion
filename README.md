@@ -1,2 +1,2 @@
-# Challengue-Logica-de-Programacion
+# Challengue-Oracle-One
 Logica de Programacion
